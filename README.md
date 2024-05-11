@@ -1,6 +1,6 @@
 # Completing and balancing database excerpted chemical reactions with a hybrid mechanism - machine learning approach
 
-[[Paper],
+[[Paper](https://pubs.acs.org/doi/10.1021/acsomega.4c00262),
 [[Repository](https://github.com/chonghuanzhang/balancing_rxn)]
 
 ## Introduction
